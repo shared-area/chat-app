@@ -6,5 +6,5 @@
 One-One Chat, Many-Many Chat, Chat Room/ Chat Group , File Upload, Chat History, 
 User Status Display(Available/Busy/Offline) 
 
+![alt tag](https://github.com/shared-area/chat-app/issues/1)
 
-https://github.com/shared-area/chat-app/issues/1
