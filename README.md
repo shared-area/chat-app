@@ -5,3 +5,6 @@
 ###### Functionalities : 
 One-One Chat, Many-Many Chat, Chat Room/ Chat Group , File Upload, Chat History, 
 User Status Display(Available/Busy/Offline) 
+
+
+https://github.com/shared-area/chat-app/issues/1
